@@ -1,0 +1,1 @@
+perm(80000,79000,144952058) -> writeln(true); writeln(false).

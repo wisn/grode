@@ -1,0 +1,1 @@
+modmul(10^100+19,10^100+21,10^9+9,895569273) -> writeln(true); writeln(false).

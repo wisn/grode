@@ -1,0 +1,1 @@
+modmul(2,3,4,2) -> writeln(true); writeln(false).

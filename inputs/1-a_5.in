@@ -1,0 +1,1 @@
+modadd(10^100+19,10^100+21,10^9+9,378813512) -> writeln(true); writeln(false).

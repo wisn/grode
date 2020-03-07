@@ -1,0 +1,1 @@
+(startri(-1) -> writeln(true); writeln(false)); true.

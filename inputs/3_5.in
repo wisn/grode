@@ -1,0 +1,1 @@
+(fibo(1,2,-2,F) -> writeln(true); writeln(false)); true.

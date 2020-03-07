@@ -1,0 +1,1 @@
+modadd(2^60+3,2^60+17,1001,22) -> writeln(true); writeln(false).

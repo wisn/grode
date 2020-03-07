@@ -1,0 +1,1 @@
+fibo(1,1,10,89) -> writeln(true); writeln(false).

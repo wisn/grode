@@ -1,0 +1,1 @@
+(perm(-1,0,R) -> writeln(true); writeln(false)); true.

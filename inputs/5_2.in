@@ -1,0 +1,1 @@
+((12 ganjil) -> writeln(true); writeln(false)); true.

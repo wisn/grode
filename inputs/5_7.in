@@ -1,0 +1,1 @@
+((1 + 2 * 4 genap) -> writeln(true); writeln(false)); true.

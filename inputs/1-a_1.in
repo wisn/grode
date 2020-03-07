@@ -1,0 +1,1 @@
+modadd(2,3,4,1) -> writeln(true); writeln(false).
